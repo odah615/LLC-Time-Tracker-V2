@@ -1,0 +1,4 @@
+# Cloudflare Workers Assets Ignore
+# Prevent server bundle from being exposed as static public downloads
+server.cjs
+server.cjs.map
